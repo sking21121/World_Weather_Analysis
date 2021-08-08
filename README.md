@@ -17,4 +17,5 @@ Import the WeatherPy_Database.csv file from your Weather_Database folder from De
 
 ## Deliverable 3
 
-Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.![Screen Shot 2021-08-08 at 9 59 24 AM](https://user-images.githubusercontent.com/86200136/128634618-a90f7262-27d0-474c-9fc7-26b987a99b24.png)
+Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.![Screen Shot 2021-08-08 at 10 01 20 AM](https://user-images.githubusercontent.com/86200136/128634646-583cef49-a4c2-4380-b49c-3c2adcd8cb44.png)
+
